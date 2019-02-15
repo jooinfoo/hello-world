@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hello Everyone
+
+Good Human here, I like Node.JS and Linux. So, I will rule the world... Ha..ha..ha..
