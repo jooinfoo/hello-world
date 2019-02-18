@@ -1,3 +1,43 @@
 .external-css {
     color: slateblue;
 }
+
+#heading {
+    text-decoration: underline;
+}
+
+.box{
+    float: left;
+    width: 500px;
+    /* height: 500px; */
+    background-color: black;
+    color: green;
+    border: 5px solid green;
+    margin: 5px;
+    padding: 50px;
+}
+
+.box h2 {
+    text-decoration: underline;
+    text-align: center
+}
+
+.success{
+    color: green;
+}
+
+.warning{
+    color:yellow;
+}
+
+.danger{
+    color: red;
+}
+
+.link{
+    color: green;
+}
+
+.link:hover{
+    color: white;
+}
